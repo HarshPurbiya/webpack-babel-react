@@ -6,6 +6,8 @@
     "type": "git",
     "url": "https://github.com/HarshPurbiya/webpack-babel-react"
   },
+  "author": "Harsh Purbiya",
+  "license": "ISC",
   "keywords": [
     "Autoprefixer",
     "PostCSS",
@@ -19,8 +21,6 @@
     "start": "webpack-dev-server --open --hot --mode development",
     "build": "webpack --mode production"
   },
-  "author": "Harsh Purbiya",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
